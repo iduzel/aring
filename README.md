@@ -18,6 +18,8 @@
 ![Backyard](/images/gartenResized.jpg)
 <br>
 <br>
+[Emojis]
+🏃‍♂️  🙂  🚙 
 <br>
 <br>
 
@@ -46,52 +48,12 @@
 <br>
 <br>
 <br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ## [External Link GOOGLE](https://www.google.com)
 ## [Internal Link My Garten](/images/gartenResized.jpg)
 ## [Images Image Folder](/images)
+
 
 
 
