@@ -22,10 +22,10 @@
 <br>
 <br>
 
-Names|Class|Age
------|-----|-----
-Ismail|JS|43
-John|HTML|25
+Names  |  Class |Age
+-----  |-----   |-----
+Ismail |JS      |43
+John   |HTML    |25
 
 <br>
 <br>
