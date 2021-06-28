@@ -87,6 +87,7 @@
 
 
 ## [External Link](https://www.google.com)
+## [Internal link](/home/ismail/Pictures/gartenResized.jpg)
 
 
 
