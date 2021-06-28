@@ -11,6 +11,8 @@
 
 <br>
 <br>
+
+[GitHub Help Documentation](https://help.github.com/en)
 <br>
 <br>
 <br>
