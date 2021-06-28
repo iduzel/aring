@@ -37,9 +37,6 @@ John   |HTML    |25
 ## [Images Image Folder](/images)
 
 
-This [link][Google] navigates to Google
-[Google]:https://www.google.com/
-
 
 
 
