@@ -88,6 +88,7 @@
 
 ## [External Link](https://www.google.com)
 ## [Internal link](/images/gartenResized.jpg)
+## [Images](/images)
 
 
 
