@@ -22,6 +22,8 @@
 <br>
 <br>
 
+## Tables
+
 Names  |  Class |Age
 -----  |-----   |-----
 Ismail |JS      |43
