@@ -10,8 +10,7 @@
 
 <br>
 
-This [link][Google] navigates to Google
-[Google]:https://www.google.com/
+
 
 [GitHub Help Documentation](https://help.github.com/en)
 <br>
@@ -37,6 +36,9 @@ John   |HTML    |25
 ## [Internal Link My Garten](/images/gartenResized.jpg)
 ## [Images Image Folder](/images)
 
+
+This [link][Google] navigates to Google
+[Google]:https://www.google.com/
 
 
 
