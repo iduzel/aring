@@ -9,8 +9,7 @@
 - [ ] [Tables](#Tables)
 
 
-## [External Link](Create-checkboxes-with-the-following-tasks)
-[Google](https://www.google.com)
+## [External Link](https://www.google.com)
 
 
 
@@ -30,4 +29,4 @@
 
 
 
-### link
+
