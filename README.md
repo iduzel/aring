@@ -10,19 +10,23 @@
 
 
 <br>
-<br>
 
 [GitHub Help Documentation](https://help.github.com/en)
 <br>
-<br>
+
 ![Backyard](/images/gartenResized.jpg)
 <br>
-<br>
+
 ## Emojis
 🏃‍♂️  🙂  🚙 
 <br>
 <br>
 
+Names|Class|Age|
+-----|-----|
+Ismail|JS|43|
+John|HTML|25
+
 <br>
 <br>
 <br>
@@ -40,14 +44,6 @@
 <br>
 <br>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 
 ## [External Link GOOGLE](https://www.google.com)
