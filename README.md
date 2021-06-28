@@ -1,11 +1,11 @@
 # Github Flavoured Markdown
 
 
-- [ ] [External Link](#External-Link-GOOGLE)
-- [ ] [Internal Link](#Internal-Link-My-Garten)
-- [ ] [Images](#Images-Image-Folder)
-- [ ] [Emojis](#Emojis)
-- [ ] [Tables](#Tables)
+- [x] [External Link](#External-Link-GOOGLE)
+- [x] [Internal Link](#Internal-Link-My-Garten)
+- [x] [Images](#Images-Image-Folder)
+- [x] [Emojis](#Emojis)
+- [x] [Tables](#Tables)
 
 
 <br>
