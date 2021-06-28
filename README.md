@@ -88,9 +88,9 @@
 
 
 
-## [External Link](https://www.google.com)
-## [Internal link](/images/gartenResized.jpg)
-## [Images](/images)
+## [External Link --> GOOGLE](https://www.google.com)
+## [Internal link -->My Garten](/images/gartenResized.jpg)
+## [Images --> Image Folder](/images)
 
 
 
