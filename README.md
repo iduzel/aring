@@ -23,7 +23,7 @@
 <br>
 
 Names|Class|Age
------|-----
+-----|-----|-----
 Ismail|JS|43
 John|HTML|25
 
