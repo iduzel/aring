@@ -11,7 +11,7 @@
 <br>
 
 This [link][Google] navigates to Google
-[Google]:https://www.google.com/ "Google"
+[Google]:https://www.google.com/
 
 [GitHub Help Documentation](https://help.github.com/en)
 <br>
