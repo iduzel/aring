@@ -87,7 +87,7 @@
 
 
 ## [External Link](https://www.google.com)
-## [Internal link](gartenResized.jpg)
+## [Internal link](/images/gartenResized.jpg)
 
 
 
