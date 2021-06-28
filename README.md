@@ -10,8 +10,8 @@
 
 <br>
 
-This [link][1] navigates to Google
-[1]:https://www.google.com/ "Google"
+This [link][Google] navigates to Google
+[Google]:https://www.google.com/ "Google"
 
 [GitHub Help Documentation](https://help.github.com/en)
 <br>
