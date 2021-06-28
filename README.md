@@ -2,7 +2,7 @@
 
 ## Create checkboxes with the following tasks:
 
-- [ ] [External Link](#External-Link)
+- [ ] [External Link](#External-Link--->-GOOGLE)
 - [ ] [Internal Link](#Internal-Link)
 - [ ] [Images](#Images)
 - [ ] [Emojis](#Emojis)
