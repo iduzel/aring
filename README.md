@@ -4,7 +4,7 @@
 
 - [ ] [External Link](#External-Link-GOOGLE)
 - [ ] [Internal Link](#Internal-Link-My-Garten)
-- [ ] [Images](#Images)
+- [ ] [Images](#Images-Image-Folder)
 - [ ] [Emojis](#Emojis)
 - [ ] [Tables](#Tables)
 
@@ -90,7 +90,7 @@
 
 ## [External Link GOOGLE](https://www.google.com)
 ## [Internal Link My Garten](/images/gartenResized.jpg)
-## [Images --> Image Folder](/images)
+## [Images Image Folder](/images)
 
 
 
