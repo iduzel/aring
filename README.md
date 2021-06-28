@@ -10,8 +10,8 @@
 
 <br>
 
-This [link](1) navigates to Google
-## [1](https://www.google.com/)
+This [link][1] navigates to Google
+[1]:https://www.google.com/ "Google"
 
 [GitHub Help Documentation](https://help.github.com/en)
 <br>
@@ -33,9 +33,6 @@ John   |HTML    |25
 
 <br>
 <br>
-
-
-
 ## [External Link GOOGLE](https://www.google.com)
 ## [Internal Link My Garten](/images/gartenResized.jpg)
 ## [Images Image Folder](/images)
