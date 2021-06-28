@@ -2,7 +2,7 @@
 
 ## Create checkboxes with the following tasks:
 
-- [ ] [External Link](#External-Link--->-GOOGLE)
+- [ ] [External Link](#External-Link-GOOGLE)
 - [ ] [Internal Link](#Internal-Link)
 - [ ] [Images](#Images)
 - [ ] [Emojis](#Emojis)
@@ -88,7 +88,7 @@
 
 
 
-## [External Link --> GOOGLE](https://www.google.com)
+## [External Link GOOGLE](https://www.google.com)
 ## [Internal link -->My Garten](/images/gartenResized.jpg)
 ## [Images --> Image Folder](/images)
 
