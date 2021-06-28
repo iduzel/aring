@@ -1,6 +1,5 @@
 # Github Flavoured Markdown
 
-## Create checkboxes with the following tasks:
 
 - [ ] [External Link](#External-Link-GOOGLE)
 - [ ] [Internal Link](#Internal-Link-My-Garten)
