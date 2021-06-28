@@ -15,6 +15,7 @@
 [GitHub Help Documentation](https://help.github.com/en)
 <br>
 <br>
+![Backyard](/images/garten.jpg)
 <br>
 <br>
 <br>
