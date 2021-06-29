@@ -1,6 +1,6 @@
 # Github Flavoured Markdown
 
-
+- [ ] [Ext Link](#Extr-Link)
 - [x] [External Link](#External-Link-GOOGLE)
 - [x] [Internal Link](#Internal-Link-My-Garten)
 - [x] [Images](#Images-Image-Folder)
@@ -33,6 +33,8 @@ John   |HTML    |25
 <br>
 <br>
 # [External-Link-GOOGLE](https://www.google.com)
+
+# [Extr-Link](https://www.amazon.com)
 
 
 
