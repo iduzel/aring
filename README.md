@@ -1,6 +1,7 @@
 # Github Flavoured Markdown
 
 - [ ] [Ext Link](#Extr-Link)
+- [ ] [Intr Link](#Intr-Link-Garten)
 - [x] [Internal Link](#Internal-Link-My-Garten)
 - [x] [Images](#Images-Image-Folder)
 - [x] [Emojis](#Emojis)
@@ -34,6 +35,8 @@ John   |HTML    |25
 
 
 # [Extr-Link](https://www.amazon.com)
+# [Intr-Link-Garten](/images/garten.jpg)
+
 
 
 
