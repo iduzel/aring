@@ -35,6 +35,7 @@ John   |HTML    |25
 
 # [Extr-Link](https://www.amazon.com)
 # [Intr-Link-Garten](/images/garten.jpg)
+# [Images-Image-Folder](/images)
 
 
 
