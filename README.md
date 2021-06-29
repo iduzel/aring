@@ -32,9 +32,9 @@ John   |HTML    |25
 
 <br>
 <br>
-## [External Link GOOGLE](https://www.google.com)
-## [Internal Link My Garten](/images/gartenResized.jpg)
-## [Images Image Folder](/images)
+# [External Link GOOGLE](https://www.google.com)
+# [Internal Link My Garten](/images/gartenResized.jpg)
+# [Images Image Folder](/images)
 
 
 
