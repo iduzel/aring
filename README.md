@@ -2,7 +2,6 @@
 
 - [ ] [Ext Link](#Extr-Link)
 - [ ] [Intr Link](#Intr-Link-Garten)
-- [x] [Internal Link](#Internal-Link-My-Garten)
 - [x] [Images](#Images-Image-Folder)
 - [x] [Emojis](#Emojis)
 - [x] [Tables](#Tables)
